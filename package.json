@@ -1,5 +1,6 @@
 {
   "name": "reactjs-tailwindcss-starterfiles",
+  "homepage": "https://github.com/22tushar/Shop_Easy.git",
   "version": "1.0.0",
   "main": "index.js",
   "repository": {
@@ -25,7 +26,9 @@
     "tailwindcss": "^3.0.24"
   },
   "scripts": {
-    "start": "react-scripts start"
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
