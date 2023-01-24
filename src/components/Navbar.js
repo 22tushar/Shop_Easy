@@ -48,7 +48,7 @@ const Navbar = () => {
         <div className="ml-5">
           <Link to={"/"}>
             <h1 className="bg-gradient-to-br from-pink-800 to-pink-400 bg-clip-text text-transparent text-5xl font-bold logo cursor-pointer tracking-wider">
-              Orchid
+              MANIT CODERS
             </h1>
           </Link>
         </div>
