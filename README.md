@@ -2,7 +2,7 @@
 
 This modern **Orchid-fashion-store** project is built using **ReactJS**, google **Firebase** and **TailwindCSS**.
 
-##### Project link: https://orchid-fashion-store.netlify.app/
+##### Project link: 
 
 ### Project Features
 - Beautiful modern UI using modern tools like **TailwindCSS** and **MaterialUI**, the design is completely responsive.
