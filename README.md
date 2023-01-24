@@ -1,6 +1,6 @@
 #  **Fashion Store using ReactJS, Firebase and TailwindCSS**
 
-This modern **Orchid-fashion-store** project is built using **ReactJS**, google **Firebase** and **TailwindCSS**.
+This modern **MANIT CODERS-fashion-store** project is built using **ReactJS**, google **Firebase** and **TailwindCSS**.
 
 ##### Project link: 
 
